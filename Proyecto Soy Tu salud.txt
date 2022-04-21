@@ -1,0 +1,8 @@
+Horas Sebastian Cabrera
+
+20/04/2022: 9:00AM - 10AM. Primeras configuraciones, instalacion de node, git y next para el proyecto se crea el repositorio en github del proyecto, breve explicacion sobre manejo de los LINKS en next y como se crean las paginas
+				   Link Repositorio : https://github.com/ltorresvidal1/soytusalud
+
+20/04/2022: 1:30PM - 2:30 PM.  Se crean el footer y el header se explica orden de carpetas importaciones y exportaciones de componenetes se genera un segundo commit para la prueba del avanaces 
+
+20/04/2022 6:00PM - 9:00 PM Se empieza a reparar el css, Imagenes principales se arreglan imagenes se integra con next se da un primer vistazo a martin
