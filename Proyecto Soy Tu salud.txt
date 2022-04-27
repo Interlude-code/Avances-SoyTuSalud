@@ -6,3 +6,11 @@ Horas Sebastian Cabrera
 20/04/2022: 1:30PM - 2:30 PM.  Se crean el footer y el header se explica orden de carpetas importaciones y exportaciones de componenetes se genera un segundo commit para la prueba del avanaces 
 
 20/04/2022 6:00PM - 9:00 PM Se empieza a reparar el css, Imagenes principales se arreglan imagenes se integra con next se da un primer vistazo a martin
+
+25/04/2022 1:00PM : 3:00PM Se corrigen botones no visibles se pone css nuevo para reparar el paginado y se dan retoques al resposive
+
+26/04/2022 7:00PM - 9:00PM retoques de maquetacion a la pagina de registro, se crea el primer despliegue
+
+27/04/2022 11:00AM - 2:00PM se inicializa el sistema de firebase para la autenticacion de los datos se añade creacion de cuenta por medio de google, seguimos a la espera de base de datos para traer los datos restantes
+
+27/04/2022 9:00PM - 12:00 PM se integra FireStore para base de datos en la nube se integra graphql se crean las primeras mutaciones y los primeros querys con sus resolvers y types
